@@ -1,0 +1,10 @@
+#btnAdd{
+   background-color:#042940;
+   border: 1px solid #005C53;
+   color: #9FC131;
+   border-radius: 5px;
+   cursor: pointer;
+   padding: 5px 10px; 
+   transition: background-color 0.2s;
+}
+
